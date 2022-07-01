@@ -1,0 +1,24 @@
+body{
+    background-color: lightgreen;
+}
+
+.title{
+    font-size: xxx-large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+}
+
+.results{
+    font-size: x-large;
+}
+
+.canvas{
+    border: 2px solid white;
+}
